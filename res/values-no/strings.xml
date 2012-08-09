@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Kamera</string>
+    <string name="hello">MaclawStudios Kamera - Beta 1</string>
+    <string name="unsupported">Modell ikke støttes</string>
+    <string name="error">Noe gikk feil</string>
+    <string name="cannot_connect_camera">Kan ikke koble til kameraen</string>
+    <string name="dialog_ok">OK</string>
+    <string name="camera_error_title">Feil</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="time_lapse_title">Time lapse opptak</string>
+    <string name="accessibility_second_level_indicators">Flere innstillinger</string>
+    <string name="accessibility_back_to_first_level">Lukk innstillinger</string>
+    <string name="accessibility_mode_picker">Kamera, video eller panorama velgere</string>
+    <string name="accessibility_review_thumbnail">Siste bilde</string>
+    <string name="empty" translatable="false">" "</string>
+    <string name="accessibility_shutter_button">Kameraknapp</string>
+    <string name="switch_to_camera_label">Bytt til kamera</string>
+    <string name="switch_to_video_label">Bytt til video</string>
+    <string name="switch_to_panorama_label">Bytt til panorama</string>
+</resources>
