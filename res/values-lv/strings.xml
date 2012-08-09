@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Kamera</string>
+    <string name="hello">MaclawStudios Kamera- Beta 1</string>
+    <string name="unsupported">Neatbalstīts modelis</string>
+    <string name="error">Kaut kas nogāja greizi</string>
+    <string name="cannot_connect_camera">Nevar piekonektētis</string>
+    <string name="dialog_ok">OK</string>
+    <string name="camera_error_title">Kļūda</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_ddMMyyyy_HHmmss"</string>
+    <string name="time_lapse_title">Laika beigu ieraksts</string>
+    <string name="accessibility_second_level_indicators">Papildus iestatījumu kontrolieri</string>
+    <string name="accessibility_back_to_first_level">Aizvērt iestatījumu kontrolierus</string>
+    <string name="accessibility_mode_picker">Kameras, video vai panorāmas izvēle</string>
+    <string name="accessibility_review_thumbnail">Pēdējā bilde</string>
+    <string name="empty" translatable="false">" "</string>
+    <string name="accessibility_shutter_button">Uzņemšanas poga</string>
+    <string name="switch_to_camera_label">Pārslēgt uz kameru</string>
+    <string name="switch_to_video_label">Pārslēgt uz video</string>
+    <string name="switch_to_panorama_label">Pārslēgt uz panorāmu</string> 
+</resources>
