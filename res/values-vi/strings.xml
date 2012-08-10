@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Chụp hình</string>
+	<string name="hello">Chưong trình chụp hình của MaclawStudios- Phiên bản Beta 1</string>
+	<string name="unsupported">Không hỗ trợ thiết bị này!</string>
+	<string name="error">Có lỗi xảy ra…</string>
+	<string name="cannot_connect_camera">Không thể truy cập đến camera</string>
+	<string name="dialog_ok">OK</string>
+	<string name="camera_error_title">Lỗi</string>
+	<string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+	<string name="time_lapse_title">Thời gian ghi hình còn lại</string>
+	<string name="accessibility_second_level_indicators">Tùy chỉnh khác</string>
+	<string name="accessibility_back_to_first_level">Đóng tùy chỉnh</string>
+	<string name="accessibility_mode_picker">Tùy chọn chụp hình, quay phim, hoặc chụp toàn cảnh</string>
+	<string name="accessibility_review_thumbnail">Ảnh đuợc xem gần đây nhất</string>
+	<string name="empty" translatable="false">" "</string>
+	<string name="accessibility_shutter_button">Phím chụp hình</string>
+	<string name="switch_to_camera_label">Chuyển qua chế độ chụp hình</string>
+	<string name="switch_to_video_label">Chuyển qua chế độ quay phim</string>
+	<string name="switch_to_panorama_label">Chuyển qua chế độ chụp toàn cảnh</string>
+</resources>
