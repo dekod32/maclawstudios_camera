@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="appname">Caméra</string>
-<string name="hello">MaclawStudios Caméra - Version Bêta 1</string>
+<string name="hello">Caméra MaclawStudios - Version Bêta 1</string>
 <string name="unsupported">Modèle non supporté!</string>
 <string name="error">Quelque chose ne va pas&#8230;</string>
 <string name="cannot_connect_camera">Impossible de se connecter à la caméra</string>
