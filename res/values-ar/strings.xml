@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">كاميرا</string>
+	<string name="hello"> Beta 1 - MaclawStudios كاميرا </string>
+	<string name="unsupported">نموذج غير مدعوم </string>
+	<string name="error">لقد حصل خطأ</string>
+	<string name="cannot_connect_camera">لا يمكن الاتصال بالكاميرا</string>
+	<string name="dialog_ok">OK</string>
+	<string name="camera_error_title">خطأ</string>
+	<string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+	<string name="time_lapse_title">تسجيل مع فاصل الوقت</string>
+	<string name="accessibility_second_level_indicators"> المزيد من وضع الضوابط</string>
+	<string name="accessibility_back_to_first_level">إغلاق وضع الضوابط</string>
+	<string name="accessibility_mode_picker">منقي الكاميرا, الفيديو أو البانوراما </string>
+	<string name="accessibility_review_thumbnail">أحدث صورة</string>
+	<string name="empty" translatable="false">" "</string>
+	<string name="accessibility_shutter_button">زر مصراع الكاميرا</string>
+	<string name="switch_to_camera_label">الانتقال إلى الكاميرا</string>
+	<string name="switch_to_video_label">الانتقال إلى الفيديو</string>
+	<string name="switch_to_panorama_label">الانتقال إلى البانوراما</string> 
+</resources>
