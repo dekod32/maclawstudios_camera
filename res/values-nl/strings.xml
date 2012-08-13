@@ -3,8 +3,8 @@
     <string name="appname">Camera</string>
     <string name="hello">MaclawStudios Camera - Beta 1</string>
     <string name="unsupported">Niet ondersteund model!</string>
-    <string name="error">Iets ging verkeerd…</string>
-    <string name="cannot_connect_camera">kan niet verbinden met camera</string>
+    <string name="error">Eris en fout opgetreden&#8230;</string>
+    <string name="cannot_connect_camera">kan niet verbinden met de camera</string>
     <string name="dialog_ok">OK</string>
     <string name="camera_error_title">Fout</string>
     <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
@@ -12,10 +12,10 @@
     <string name="accessibility_second_level_indicators">Meer opties </string>
     <string name="accessibility_back_to_first_level">Sluit opties</string>
     <string name="accessibility_mode_picker">Camera, video, of panorama Kiezen</string>
-    <string name="accessibility_review_thumbnail">Meest recente foto</string>
+    <string name="accessibility_review_thumbnail">Laatste foto</string>
     <string name="empty" translatable="false">" "</string>
-    <string name="accessibility_shutter_button">Sluit knop</string>
-    <string name="switch_to_camera_label">Verander naar camera</string>
-    <string name="switch_to_video_label">Verander naar video</string>
-    <string name="switch_to_panorama_label">Verander naar panorama</string>
+    <string name="accessibility_shutter_button">Sluiter knop</string>
+    <string name="switch_to_camera_label">Ga naar camera</string>
+    <string name="switch_to_video_label">Ga naar video</string>
+    <string name="switch_to_panorama_label">Ga naar panorama</string>
 </resources>
