@@ -3,7 +3,7 @@
     <string name="appname">Camera</string>
     <string name="hello">MaclawStudios Camera - Beta 1</string>
     <string name="unsupported">Niet ondersteund model!</string>
-    <string name="error">Eris en fout opgetreden&#8230;</string>
+    <string name="error">Er is en fout opgetreden&#8230;</string>
     <string name="cannot_connect_camera">kan niet verbinden met de camera</string>
     <string name="dialog_ok">OK</string>
     <string name="camera_error_title">Fout</string>
