@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">دوربین</string>
+    <string name="hello">MaclawStudios Camera - Beta 1</string>
+    <string name="unsupported">برنامه کاربردي با اين دستگاه ساگار نيست</string>
+    <string name="error">يک خطا رخ داده است</string>
+    <string name="cannot_connect_camera">دسترسي به دوربين مقدور نيست</string>
+    <string name="dialog_ok">بسيار خب</string>
+    <string name="camera_error_title">خطا</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="time_lapse_title">زمان ذخيره شده</string>
+    <string name="accessibility_second_level_indicators">شاخص مرحله دوم</string>
+    <string name="accessibility_back_to_first_level">برگشت به مرحله اول</string>
+    <string name="accessibility_mode_picker">حالت عکسبرداري</string>
+    <string name="accessibility_review_thumbnail">پيشنمايش کوچک</string>
+    <string name="empty" translatable="false">" "</string>
+    <string name="accessibility_shutter_button">دکمه عکسبرداري</string>
+    <string name="switch_to_camera_label">حالت عکسبرداري</string>
+    <string name="switch_to_video_label">حالت فيلم برداري</string>
+    <string name="switch_to_panorama_label">حالت پانوراما</string>
+</resources>
