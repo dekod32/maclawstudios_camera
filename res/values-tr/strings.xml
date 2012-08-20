@@ -4,11 +4,11 @@
     <string name="hello">MaclawStudios Kamera - Beta 1</string>
     <string name="unsupported">Desteklenmeyen cihaz!</string>
     <string name="error">Hata oluştu…</string>
-    <string name="cannot_connect_camera">Kameraya bağlanamıyor</string>
+    <string name="cannot_connect_camera">Kameraya bağlanılamıyor</string>
     <string name="dialog_ok">Tamam</string>
     <string name="camera_error_title">Hata</string>
     <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
-    <string name="time_lapse_title">Kayır süresi</string>
+    <string name="time_lapse_title">Kayıt süresi</string>
     <string name="accessibility_second_level_indicators">Daha fazla ayar</string>
     <string name="accessibility_back_to_first_level">Ayarları kapat</string>
     <string name="accessibility_mode_picker">Kamera, video veya panaroma seçici</string>
